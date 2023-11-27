@@ -28,9 +28,9 @@ trash
 .trashes
 *~
 
-# Gatsby related
+
 .cache/
-public
+dist
 
 # Editor
 .vscode
